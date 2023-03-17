@@ -1,0 +1,14 @@
+autopep8==2.0.2
+colortools==0.1.2
+FGAme==0.6.5
+lazyutils==0.3.3
+plyer==2.1.0
+pycodestyle==2.10.0
+pygame==2.3.0
+pygeneric==0.5.7
+pyobjc-core==9.0.1
+pyobjc-framework-Cocoa==9.0.1
+rumps==0.4.0
+six==1.16.0
+smallshapes==0.6.2
+smallvectors==0.7.0
